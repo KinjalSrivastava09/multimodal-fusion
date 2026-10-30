@@ -1,0 +1,10 @@
+\contentsline {section}{\numberline {1}Executive summary}{2}{section.1}%
+\contentsline {section}{\numberline {2}Research objective and experimental design}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Why the two modalities are complementary}{2}{subsection.2.1}%
+\contentsline {section}{\numberline {3}Model architecture}{2}{section.3}%
+\contentsline {section}{\numberline {4}Evaluation protocol and metrics}{2}{section.4}%
+\contentsline {section}{\numberline {5}Learning dynamics}{4}{section.5}%
+\contentsline {section}{\numberline {6}Confusion analysis}{4}{section.6}%
+\contentsline {section}{\numberline {7}Latent representations}{6}{section.7}%
+\contentsline {section}{\numberline {8}Interpretation and limitations}{6}{section.8}%
+\contentsline {section}{\numberline {9}Reproducibility and repository contents}{6}{section.9}%
